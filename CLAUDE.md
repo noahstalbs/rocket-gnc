@@ -40,6 +40,10 @@ writes outright. Never more than one file ahead. Never fix owner code
 silently. Explain WHY flight-software conventions exist. Bullets over
 paragraphs.
 
+Formatting: mark loop stages with clear section banners so the owner knows
+where we are — "QUIZ" (explain-back), "BREAK-IT" (hand task), "INTERVIEW"
+(interviewer-lines).
+
 ## Build and test
 
 ```
