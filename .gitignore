@@ -1,0 +1,13 @@
+# Build output
+build/
+
+# Runtime logs and sim output (CSV telemetry lands here later)
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
