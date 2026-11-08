@@ -8,3 +8,4 @@ One line per decision: what we chose and WHY. Newest at the bottom.
   undefined, so the fallback is deterministic rather than UB. (Compile-time
   bounds variant skipped — two APIs for a three-line function isn't worth it
   yet; revisit if runtime-config bounds become common.)
+- 2026-11-08 — GoogleTest via FetchContent, pinned to v1.17.0. A clean clone must build with no pre-installed deps, and a pinned tag means every clone builds the identical dependency — floating branches make builds non-reproducible.

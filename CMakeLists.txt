@@ -18,6 +18,7 @@ enable_testing()
 
 add_subdirectory(flight)
 add_subdirectory(sim)
+add_subdirectory(tests)
 
 # --- flight/sim layering guard ----------------------------------------------
 # flight/ must never depend on sim/: the same flight code has to run unchanged
