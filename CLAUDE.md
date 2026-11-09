@@ -44,6 +44,10 @@ Formatting: mark loop stages with clear section banners so the owner knows
 where we are — "QUIZ" (explain-back), "BREAK-IT" (hand task), "INTERVIEW"
 (interviewer-lines).
 
+Owner-typed files: strictly one file at a time, step by step — signature
+first, then the body in small pieces, hand-holding throughout. Finish and
+close a file completely before starting the next. Never parallel-track.
+
 ## Build and test
 
 ```
